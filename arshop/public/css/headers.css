@@ -1,0 +1,50 @@
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+  
+.opcio_menu{
+    display: inline;
+    float:right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.letra{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
+
+.logo{
+    overflow:hidden;
+    position: relative;
+    padding:0,5%; 
+    padding-left:1%;
+}
+
+.logo span{
+    position:relative;
+    display: block;
+    background:url(brillo.png) no-repeat; 
+    background-position: -300px 0px;
+    margin-top:-137px;
+    height: 133px;
+    width: 132px;     
+}
+
+.logo:hover span{
+    background-position: 300px 0px;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1.5s;
+    transition-property: all;
+    transition-duration: 1.5s;
+}

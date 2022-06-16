@@ -1,0 +1,38 @@
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+.opcio_menu{
+    display: inline;
+    float:right;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+}
+.letra{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.Fondo{
+    background-color: black;
+}
+
+.logo{
+    overflow:hidden;
+    position: relative;
+    padding:0,5%; 
+    padding-left:1%;
+}
+
+.footer{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
