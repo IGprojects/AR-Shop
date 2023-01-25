@@ -7,8 +7,14 @@ Tienda de productos en Realidad Augmentada, con AR SHOP podrás ver los producto
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura2.png)
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura3.png)
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura3.2.png)
+### Panel de usuarios registrados
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura4.png)
-![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura5.png)
+### Panel de pedidos
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura6.png)
+### Panel de productos
+![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura5.png)
+### Panel para crear productos
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura7.png)
+
+
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura8.png)
