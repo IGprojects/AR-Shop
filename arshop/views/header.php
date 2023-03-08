@@ -90,6 +90,9 @@
                         <li><a class="dropdown-item" href="<?php echo  constant('URL');?>nuevoNoticia">Creacio Noticia</a></li>
                         </ul>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?php echo  constant('URL');?>Noticies">Noticíes</a>
+                    </li>
                 
             </ul>
             

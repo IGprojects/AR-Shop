@@ -115,3 +115,8 @@
     line-height: 1.4;
     word-spacing: 100vw;
     }
+
+    .card-grid a{
+        background: none;
+        border-color: transparent;
+    }
