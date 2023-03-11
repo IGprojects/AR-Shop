@@ -8,6 +8,7 @@ Tienda de productos en Realidad Augmentada, con AR SHOP podrás ver los producto
   - CSS
   - JS
   - MYSQL
+  - UNITY
 
 
 ### Credenciales de administrador:
