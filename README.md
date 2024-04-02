@@ -33,6 +33,7 @@ Tienda de productos en Realidad Augmentada, con AR SHOP podrás ver los producto
 
 
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura8.png)
+![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura8.png)
 
 ## Aplicacion Android
 ### Login & Registro
@@ -51,6 +52,3 @@ Tienda de productos en Realidad Augmentada, con AR SHOP podrás ver los producto
 ### Ajustes
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid4.PNG)
 ![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid5.PNG)
-
-
-![image](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura8.png)
