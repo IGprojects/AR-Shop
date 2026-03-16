@@ -49,9 +49,11 @@ La App móvil ofrece una experiencia inmersiva permitiendo al usuario "probarse"
 | ![Login](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid1.png) | ![Registro](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid2.png) |
 
 ### 🕶️ Experiencia AR Try-On
-| Menú Principal | AR View (Ropa) | AR View (Accesorios) |
-| :---: | :---: | :---: |
-| ![Menu](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid3.PNG) | ![AR1](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid8.png) | ![AR2](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid6.png) |
+He aquí las diferentes visualizaciones de la tecnología de Realidad Aumentada integrada en la App.
+
+| Menú Principal | AR View (Modelo) | AR View (Reloj) | AR View (Maniquí) |
+| :---: | :---: | :---: | :---: |
+| ![Menu](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid3.PNG) | ![AR1](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid8.png) | ![AR_Reloj](https://github.com/IGprojects/AR-Shop/blob/main/assets/CapturaAndroid6.png) | ![AR_Maniqui](https://github.com/IGprojects/AR-Shop/blob/main/assets/Captura%20de%20pantalla%202024-04-02%20123639.png) |
 
 ### 🛒 Checkout & Perfil
 | Carrito de Compras | Lista de Favoritos | Ajustes de Perfil |
